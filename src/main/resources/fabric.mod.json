@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "ores_plus",
+  "version": "${version}",
+
+  "name": "Ores+",
+  "description": "Ores+ description WIP",
+  "authors": [
+    "makubas#6376"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.makubas.OresPlus.OresPlus"
+    ]
+  },
+  "mixins": [
+
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

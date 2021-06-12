@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "ores_plus:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "ores_plus:zinc_block"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "item.ores_plus.lead_ingot": "Lead Ingot",
+  "item.ores_plus.tin_ingot": "Tin Ingot",
+  "item.ores_plus.zinc_ingot": "Zinc Ingot",
+
+  "item.ores_plus.lead_pickaxe": "Lead Pickaxe",
+  "item.ores_plus.lead_axe": "Lead Axe",
+  "item.ores_plus.lead_shovel": "Lead Shovel",
+  "item.ores_plus.lead_sword": "Lead Sword",
+  "item.ores_plus.lead_hoe": "Lead Hoe",
+
+  "item.ores_plus.tin_pickaxe": "Tin Pickaxe",
+  "item.ores_plus.tin_axe": "Tin Axe",
+  "item.ores_plus.tin_shovel": "Tin Shovel",
+  "item.ores_plus.tin_sword": "Tin Sword",
+  "item.ores_plus.tin_hoe": "Tin Hoe",
+
+  "item.ores_plus.zinc_pickaxe": "Zinc Pickaxe",
+  "item.ores_plus.zinc_axe": "Zinc Axe",
+  "item.ores_plus.zinc_shovel": "Zinc Shovel",
+  "item.ores_plus.zinc_sword": "Zinc Sword",
+  "item.ores_plus.zinc_hoe": "Zinc Hoe",
+
+
+  "block.ores_plus.lead_block": "Lead Block",
+  "block.ores_plus.tin_block": "Tin Block",
+  "block.ores_plus.zinc_block": "Zinc Block",
+  "block.ores_plus.lead_ore": "Lead Ore",
+  "block.ores_plus.zinc_ore": "Zinc Ore",
+  "block.ores_plus.tin_ore": "Tin Ore"
+}
